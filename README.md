@@ -33,4 +33,5 @@ Juan Rodríguez
 7. Adriana Mora
 8.alejandro galvis
 9. Erick Daleman
-10. Jhonny Cordero 
+10. Jhonny Cordero
+11. Juliana Gonzalez Lopez
