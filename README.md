@@ -1,5 +1,5 @@
 # Curso programando con estrellas - Planetario de Bogotá
-** Curso virtual introductorio de programación con contexto astronómico.**
+**Curso virtual introductorio de programación con contexto astronómico.**
 
 ## Sesión 1
 
