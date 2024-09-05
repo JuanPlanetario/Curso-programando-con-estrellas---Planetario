@@ -21,7 +21,7 @@ Torre de Hanoi: [aquí](https://www.geogebra.org/m/NqyWJVra)
 
 **Asistentes**
 
-
+Juan Rodríguez 
 
 
 1. William Pataquiva Parra
