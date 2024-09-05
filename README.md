@@ -21,6 +21,10 @@ Torre de Hanoi: [aquí](https://www.geogebra.org/m/NqyWJVra)
 
 **Asistentes**
 
+
+
+8.alejandro galvis
+
 1. William Pataquiva Parra
 2. Luis Ricardo Beltran Garcia
 3. Santiago Reina
