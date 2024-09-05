@@ -3,7 +3,7 @@
 
 ### Sesión 1
 
-**Recursos de la sesión: **
+**Recursos de la sesión:**
 
 Sobre el código Jacquard en el telar, [aquí](https://youtu.be/pzYucg3Tmho?t=78)
 
