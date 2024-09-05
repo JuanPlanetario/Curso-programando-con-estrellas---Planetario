@@ -25,3 +25,4 @@ Torre de Hanoi: [aquí](https://www.geogebra.org/m/NqyWJVra)
 2. Luis Ricardo Beltran Garcia
 3. Santiago Reina
 4. John Jairo Gonzalez Tavera
+5. Eric Jauregui
