@@ -24,3 +24,4 @@ Torre de Hanoi: [aquí](https://www.geogebra.org/m/NqyWJVra)
 1. William Pataquiva Parra
 2. Luis Ricardo Beltran Garcia
 3. Santiago Reina
+4. John Jairo Gonzalez Tavera
