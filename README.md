@@ -1,3 +1,5 @@
+![Gxy-04](https://github.com/user-attachments/assets/ccdb8969-ceb2-4ed6-b000-edb2d102fb15)
+
 # Curso programando con estrellas - Planetario de Bogotá
 **Curso virtual introductorio de programación con contexto astronómico.**
 
