@@ -21,5 +21,5 @@ Torre de Hanoi: [aquí](https://www.geogebra.org/m/NqyWJVra)
 
 **Asistentes**
 
-1. *Escriba su nombre en este campo*
+1. William Pataquiva Parra
 
