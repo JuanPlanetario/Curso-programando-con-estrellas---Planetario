@@ -31,4 +31,4 @@ Torre de Hanoi: [aquí](https://www.geogebra.org/m/NqyWJVra)
 5. Eric Jauregui
 6. Cindy Arias
 7. Adriana Mora
-   8.alejandro galvis
+8.alejandro galvis
