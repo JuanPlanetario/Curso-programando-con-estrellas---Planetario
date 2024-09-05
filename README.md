@@ -26,3 +26,4 @@ Torre de Hanoi: [aquí](https://www.geogebra.org/m/NqyWJVra)
 3. Santiago Reina
 4. John Jairo Gonzalez Tavera
 5. Eric Jauregui
+6. Cindy Arias
