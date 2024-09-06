@@ -42,3 +42,5 @@ Juan Rodríguez
 16. Miguel Rincon
 17. Johana Contreras
 18. John Meyer Quintero Urián
+
+Enlace para acceder a la grabación de la sesión 1: [Aquí](https://drive.google.com/file/d/19JrX4_Q60OTXSYWIqDNrLy3dqjmgnKaS/view)
