@@ -39,3 +39,4 @@ Juan Rodríguez
 13. Daylin Caceres
 14. Maria Paula Fonseca
 15. Samantha Thovinson
+16. Miguel Rincon
