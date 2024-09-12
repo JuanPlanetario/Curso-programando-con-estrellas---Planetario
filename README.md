@@ -54,3 +54,4 @@ Juan Sebastián Rodríguez Camero
 1. Erick Daleman
 2. Santiago Reina Martínez
 3. Cindy Johana Arias Vargas
+4. William Pataquiva
