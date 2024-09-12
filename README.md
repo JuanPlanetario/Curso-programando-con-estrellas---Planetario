@@ -51,3 +51,4 @@ Enlace para acceder a la grabación de la sesión 1: [Aquí](https://drive.googl
 
 Juan Sebastián Rodríguez Camero
 1. Erick Daleman
+2. Santiago Reina Martínez
