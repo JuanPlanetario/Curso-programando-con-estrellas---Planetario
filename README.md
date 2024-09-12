@@ -63,3 +63,4 @@ Juan Sebastián Rodríguez Camero
 10. Samantha Thovinson
 11. Juliana Gonzalez Lopez
 12. Gabriela Martinez
+13. John Jairo Gonzalez Tavera
