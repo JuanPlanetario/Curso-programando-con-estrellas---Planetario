@@ -20,6 +20,7 @@ Sobre el estilo de texto en Github, [aquí](https://docs.github.com/es/get-start
 Torre de Hanoi: [aquí](https://www.geogebra.org/m/NqyWJVra)
 
 **Asistentes**
+alejandro galvis
 
 Juan Rodríguez 
 
