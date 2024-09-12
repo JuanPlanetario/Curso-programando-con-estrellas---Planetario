@@ -56,3 +56,4 @@ Juan Sebastián Rodríguez Camero
 3. Cindy Johana Arias Vargas
 4. William Pataquiva
 5. Daylin Caceres
+6. John Meyer Quintero
