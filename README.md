@@ -48,3 +48,5 @@ Enlace para acceder a la grabación de la sesión 1: [Aquí](https://drive.googl
 ## Sesión 2
 
 **Asistentes**
+
+Juan Sebastián Rodríguez Camero
