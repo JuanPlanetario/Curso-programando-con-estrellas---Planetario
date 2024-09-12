@@ -60,4 +60,4 @@ Juan Sebastián Rodríguez Camero
 7. Maria Paula Fonseca
 8. Johana Contreras
 9. alejandro galvis
-10. 
+10. Samantha Thovinson
