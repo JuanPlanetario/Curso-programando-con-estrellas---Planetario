@@ -61,3 +61,4 @@ Juan Sebastián Rodríguez Camero
 8. Johana Contreras
 9. alejandro galvis
 10. Samantha Thovinson
+11. Juliana Gonzalez Lopez
