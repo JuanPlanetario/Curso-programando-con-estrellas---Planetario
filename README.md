@@ -57,3 +57,4 @@ Juan Sebastián Rodríguez Camero
 4. William Pataquiva
 5. Daylin Caceres
 6. John Meyer Quintero
+7. Maria Paula Fonseca
