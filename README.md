@@ -46,6 +46,7 @@ Juan Rodríguez
 
 Enlace para acceder a la grabación de la sesión 1: [Aquí](https://drive.google.com/file/d/19JrX4_Q60OTXSYWIqDNrLy3dqjmgnKaS/view)
 
+
 ## Sesión 2
 
 **Asistentes**
@@ -66,3 +67,7 @@ Juan Sebastián Rodríguez Camer
 13. John Jairo Gonzalez Tavera
 14. Luis Ricardo Beltran
 15. Jhonny Cordero Martinez
+
+Enlace para acceder a la grabación de la sesión 2: [Aquí](https://drive.google.com/file/d/1SYOK431C2JDILTl2wZwEo25JCskaRkSe/view?usp=drivesdk)
+
+
