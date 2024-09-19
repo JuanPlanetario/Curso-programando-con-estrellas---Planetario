@@ -76,5 +76,6 @@ Enlace para acceder a la grabación de la sesión 2: [Aquí](https://drive.googl
 Johana Contreras 
 
 2. Cindy Arias
+3. Juliana Gonzalez Lopez
   
 
