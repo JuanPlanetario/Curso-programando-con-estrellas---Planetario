@@ -80,5 +80,6 @@ Johana Contreras
 4. Maria Paula Fonseca
 5. alejandro galvis
 6. Jhonny Cordero Martinez
+7. Eric Jauregui
   
 
