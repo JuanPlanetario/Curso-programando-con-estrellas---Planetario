@@ -73,5 +73,6 @@ Enlace para acceder a la grabación de la sesión 2: [Aquí](https://drive.googl
 ## Sesión 3
 
 **Asistentes**
-
+Johana Contreras 
+  
 
