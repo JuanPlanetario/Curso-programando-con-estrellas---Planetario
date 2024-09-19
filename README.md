@@ -83,5 +83,6 @@ Johana Contreras
 7. Eric Jauregui
 8. John Jairo Gonzalez
 9. Gabriela Martinez
+10. Samantha Thovinson
   
 
