@@ -70,4 +70,8 @@ Juan Sebastián Rodríguez Camer
 
 Enlace para acceder a la grabación de la sesión 2: [Aquí](https://drive.google.com/file/d/1SYOK431C2JDILTl2wZwEo25JCskaRkSe/view?usp=drivesdk)
 
+## Sesión 3
+
+**Asistentes**
+
 
