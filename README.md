@@ -74,6 +74,6 @@ Enlace para acceder a la grabación de la sesión 2: [Aquí](https://drive.googl
 
 **Asistentes**
 Johana Contreras 
-Cindy Arias
+2. Cindy Arias
   
 
