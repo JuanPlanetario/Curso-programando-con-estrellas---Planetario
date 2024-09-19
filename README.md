@@ -81,5 +81,6 @@ Johana Contreras
 5. alejandro galvis
 6. Jhonny Cordero Martinez
 7. Eric Jauregui
+8. John Jairo Gonzalez
   
 
