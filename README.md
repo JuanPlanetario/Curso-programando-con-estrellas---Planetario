@@ -2,6 +2,7 @@
 
 # Curso programando con estrellas - Planetario de Bogotá
 **Curso virtual introductorio de programación con contexto astronómico.**
+Contacto: juan.rodriguezc@idartes.gov.co
 
 ## Sesión 1
 
