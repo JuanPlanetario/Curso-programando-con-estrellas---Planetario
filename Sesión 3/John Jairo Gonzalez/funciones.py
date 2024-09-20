@@ -1,18 +1,18 @@
 # %%
-def suma(): #Diligenciar según lo visto
-    return
+def suma(a:int,b:int): #Diligenciar según lo visto
+    return a+b
 
 # %%
-def resta(): #Diligenciar según lo visto
-    return
+def resta(a:int,b:int): #Diligenciar según lo visto
+    return a - b
 
 # %%
-def mul(): #Diligenciar según lo visto
-    return
+def mul(a:int,b:int): #Diligenciar según lo visto
+    return a *b
 
 # %%
-def div(): #Diligenciar según lo visto
-    return
+def div(a:int,b:int): #Diligenciar según lo visto
+    return a / b
 
 # %%
 def pow(x, y):
