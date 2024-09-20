@@ -74,8 +74,7 @@ Enlace para acceder a la grabación de la sesión 2: [Aquí](https://drive.googl
 ## Sesión 3
 
 **Asistentes**
-Johana Contreras 
-
+1. Johana Contreras 
 2. Cindy Arias
 3. Juliana Gonzalez Lopez
 4. Maria Paula Fonseca
