@@ -50,6 +50,10 @@ Enlace para acceder a la grabación de la sesión 1: [Aquí](https://drive.googl
 
 ## Sesión 2
 
+**Recursos de la sesión**
+
+Presentación sobre espectro electromagnético, líneas de emisión y absorción + Ley de Wien [Aquí](Sesión 2/Sesión 2.pptx) 
+
 **Asistentes**
 
 Juan Sebastián Rodríguez Camer
