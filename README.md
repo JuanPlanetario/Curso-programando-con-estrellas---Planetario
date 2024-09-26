@@ -96,4 +96,5 @@ Enlace para acceder a la grabación de la sesión 3: [Aquí](https://drive.googl
 1. Johana Contreras
 2. Alejandro Galvis
 3. Juliana Gonzalez
+4. Samantha Thovinson
 
