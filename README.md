@@ -91,7 +91,9 @@ Enlace para acceder a la grabación de la sesión 2: [Aquí](https://drive.googl
 11. Luis Ricardo Beltran
 
 Enlace para acceder a la grabación de la sesión 3: [Aquí](https://drive.google.com/file/d/1voIXVXpyeHBLo9JGHXiD7V_AGUNdeDlB/view)
-
+## Sesión 4
+** Asistentes**
+1. Johana Contreras 
 ##Sesión 4
 
 **Asistentes**
