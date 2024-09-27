@@ -100,4 +100,5 @@ Enlace para acceder a la grabación de la sesión 3: [Aquí](https://drive.googl
 5. Jhonny Cordero Martinez
 6. John Jairo Gonzalez Tavera
 7. Eric Jauregui
+8. Maria Paula Fonseca
 
