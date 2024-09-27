@@ -53,6 +53,7 @@ Enlace para acceder a la grabación de la sesión 1: [Aquí](https://drive.googl
 **Recursos de la sesión**
 
 Presentación sobre espectro electromagnético, líneas de emisión y absorción + Ley de Wien [Aquí](https://github.com/JuanPlanetario/Curso-programando-con-estrellas---Planetario/blob/283cf89def77537c092e6d3ee18d6eec175e6837/Sesi%C3%B3n%202/Sesi%C3%B3n%202.pptx) 
+
 (El archivo está subido a github que no da la vista previa, por lo que deben descargarlo en la opción *download raw file*)
 
 **Asistentes**
