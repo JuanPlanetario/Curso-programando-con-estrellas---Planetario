@@ -111,3 +111,5 @@ Formulario de conocimientos posteriores al curso: [Aquí](https://docs.google.co
 
 Encuesta de satisfacción: [Aquí](https://docs.google.com/forms/d/e/1FAIpQLSdO1M_ff5H8poZelIbFmtx20nYKkL4j3Pg8RlrTVKegPtHuUw/viewform?usp=sf_link)
 
+Presentación sobre espectro electromagnético y filtros con algunas ediciones y recursos adicionales. [Aquí](https://github.com/JuanPlanetario/Curso-programando-con-estrellas---Planetario/blob/c774d8a9181459ca2fb7fcb650fee71ae9037a92/Sesi%C3%B3n%204/Sesi%C3%B3n%204.pptx) 
+
