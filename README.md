@@ -91,6 +91,7 @@ Enlace para acceder a la grabación de la sesión 2: [Aquí](https://drive.googl
 11. Luis Ricardo Beltran
 
 Enlace para acceder a la grabación de la sesión 3: [Aquí](https://drive.google.com/file/d/1voIXVXpyeHBLo9JGHXiD7V_AGUNdeDlB/view)
+
 ## Sesión 4
 ** Asistentes**
 1. Johana Contreras
@@ -101,4 +102,8 @@ Enlace para acceder a la grabación de la sesión 3: [Aquí](https://drive.googl
 6. John Jairo Gonzalez Tavera
 7. Eric Jauregui
 8. Maria Paula Fonseca
+
+Enlace para acceder a la grabación de la sesión 4: [Aquí](https://drive.google.com/file/d/1e-TKZ78fxnj_pbLj407un9xq1nFXxvYG/view?pli=1)
+Formulario de conocimientos posteriores al curso: [Aquí](https://docs.google.com/forms/d/1NKy41iM_xGLW46yoj7x8zXLp4LfZerWrqZSKINzKHHs/edit?usp=drive_web)
+Encuesta de satisfacción: [Aquí](https://docs.google.com/forms/d/e/1FAIpQLSdO1M_ff5H8poZelIbFmtx20nYKkL4j3Pg8RlrTVKegPtHuUw/viewform?usp=sf_link)
 
