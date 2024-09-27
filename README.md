@@ -52,7 +52,8 @@ Enlace para acceder a la grabación de la sesión 1: [Aquí](https://drive.googl
 
 **Recursos de la sesión**
 
-Presentación sobre espectro electromagnético, líneas de emisión y absorción + Ley de Wien [Aquí](https://github.com/JuanPlanetario/Curso-programando-con-estrellas---Planetario/blob/283cf89def77537c092e6d3ee18d6eec175e6837/Sesi%C3%B3n%202/Sesi%C3%B3n%202.pptx) (el archivo está subido a github que no da la vista previa, por lo que deben descargarlo en la opción *download raw file*)
+Presentación sobre espectro electromagnético, líneas de emisión y absorción + Ley de Wien [Aquí](https://github.com/JuanPlanetario/Curso-programando-con-estrellas---Planetario/blob/283cf89def77537c092e6d3ee18d6eec175e6837/Sesi%C3%B3n%202/Sesi%C3%B3n%202.pptx) 
+(El archivo está subido a github que no da la vista previa, por lo que deben descargarlo en la opción *download raw file*)
 
 **Asistentes**
 
@@ -104,6 +105,8 @@ Enlace para acceder a la grabación de la sesión 3: [Aquí](https://drive.googl
 8. Maria Paula Fonseca
 
 Enlace para acceder a la grabación de la sesión 4: [Aquí](https://drive.google.com/file/d/1e-TKZ78fxnj_pbLj407un9xq1nFXxvYG/view?pli=1)
+
 Formulario de conocimientos posteriores al curso: [Aquí](https://docs.google.com/forms/d/1NKy41iM_xGLW46yoj7x8zXLp4LfZerWrqZSKINzKHHs/edit?usp=drive_web)
+
 Encuesta de satisfacción: [Aquí](https://docs.google.com/forms/d/e/1FAIpQLSdO1M_ff5H8poZelIbFmtx20nYKkL4j3Pg8RlrTVKegPtHuUw/viewform?usp=sf_link)
 
