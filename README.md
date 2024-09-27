@@ -98,4 +98,5 @@ Enlace para acceder a la grabación de la sesión 3: [Aquí](https://drive.googl
 3. Juliana Gonzalez
 4. Samantha Thovinson
 5. Jhonny Cordero Martinez
+6. John Jairo Gonzalez Tavera
 
